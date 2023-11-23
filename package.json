@@ -4,7 +4,8 @@
   "description": "NodeJS REST API following the guide from Web Dev Simplified (YouTube)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon server.js"
   },
   "author": "James Dai",
   "license": "ISC",
